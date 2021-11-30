@@ -1,0 +1,7 @@
+1. Seleccione un subconjunto del dominio problema descrito y detalle con sus propias palabras los elementos que lo conforman y las relaciones que se dan entre estos.
+
+Tipo de desastre seleccionado: Geofísicos.
+
+Los desastres geofísicos son desastres naturales, básicamente desastres producidos por la propia naturaleza y que ocurren en la tierra, como terremotos, avalanchas, sismos y erupciones volcánicas. La relación entre estos problemas es que ninguno es causado por el ser humano y que en muchas ocasiones tienen una escala de daño que han hecho a nivel local o global.
+
+Un desastre tiene, intensidad local, intensidad global, fecha, ubicación, personas desaparecidas, personas damnificadas, impactos económicos y todo se almacena en una base de datos.
